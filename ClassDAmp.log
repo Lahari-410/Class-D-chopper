@@ -1,0 +1,83 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\lahar\Downloads\ClassDAmp.asc
+Start Time: Fri Sep 11 19:31:37 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 0.000165001 +to 0.000165001
+Heightened Def Con from 0.000165001 to 0.000165002
+Heightened Def Con from 0.000165002 to 0.000165005
+Heightened Def Con from 0.00017104 to 0.000171042
+Heightened Def Con from 0.000187001 to 0.000187004
+Heightened Def Con from 0.000197995 to 0.000197997
+Heightened Def Con from 0.000197999 to 0.000198004
+Heightened Def Con from 0.000208996 to 0.000208998
+Heightened Def Con from 0.000209002 to 0.000209005
+Heightened Def Con from 0.00022 to 0.000220004
+Heightened Def Con from 0.000230499 to 0.000230501
+Heightened Def Con from 0.000231 to 0.000231004
+Heightened Def Con from 0.000242001 to 0.000242004
+Heightened Def Con from 0.000252937 to 0.000252939
+Heightened Def Con from 0.000252994 to 0.000252996
+Heightened Def Con from 0.000253001 to 0.000253004
+Heightened Def Con from 0.000253005 to 0.000253008
+Heightened Def Con from 0.000263856 to 0.000263857
+Heightened Def Con from 0.000263996 to 0.000263998
+Heightened Def Con from 0.000263998 to 0.000264004
+Heightened Def Con from 0.000275 to 0.000275004
+Heightened Def Con from 0.000285952 to 0.000285954
+Heightened Def Con from 0.000286 to 0.000286004
+Heightened Def Con from 0.000296745 to 0.000296747
+Heightened Def Con from 0.000296873 to 0.000296875
+Heightened Def Con from 0.000296937 to 0.000296939
+Heightened Def Con from 0.000296997 to 0.000296999
+Heightened Def Con from 0.000297 to 0.000297004
+Heightened Def Con from 0.000308001 to 0.000308004
+Heightened Def Con from 0.000319 to 0.000319004
+Heightened Def Con from 0.000329999 to 0.000330004
+Heightened Def Con from 0.000337983 to 0.000337985
+Heightened Def Con from 0.000340997 to 0.000340998
+Heightened Def Con from 0.000341001 to 0.000341004
+Heightened Def Con from 0.000352001 to 0.000352004
+Heightened Def Con from 0.000362778 to 0.00036278
+Heightened Def Con from 0.000362997 to 0.000362998
+Heightened Def Con from 0.000363 to 0.000363004
+Heightened Def Con from 0.000371935 to 0.000371937
+Heightened Def Con from 0.000373984 to 0.000373986
+Heightened Def Con from 0.000373998 to 0.000374
+Heightened Def Con from 0.000374 to 0.000374003
+Heightened Def Con from 0.000374003 to 0.000374006
+Heightened Def Con from 0.000385 to 0.000385004
+Heightened Def Con from 0.000395992 to 0.000395994
+Heightened Def Con from 0.000395996 to 0.000395998
+Heightened Def Con from 0.000395998 to 0.000396003
+Heightened Def Con from 0.00040695 to 0.000406952
+Heightened Def Con from 0.000406982 to 0.000406984
+Heightened Def Con from 0.000406996 to 0.000407
+Heightened Def Con from 0.000407 to 0.000407004
+Heightened Def Con from 0.000418001 to 0.000418004
+Heightened Def Con from 0.000428937 to 0.000428939
+Heightened Def Con from 0.000429001 to 0.000429004
+Heightened Def Con from 0.000439997 to 0.000439998
+Heightened Def Con from 0.000439998 to 0.000440003
+Heightened Def Con from 0.000450998 to 0.000451
+Heightened Def Con from 0.000451 to 0.000451004
+Heightened Def Con from 0.000473002 to 0.000473005
+Heightened Def Con from 0.00049491 to 0.000494912
+Heightened Def Con from 0.000495001 to 0.000495004
+Heightened Def Con from 0.000495004 to 0.000495007
+Heightened Def Con from 0.000516968 to 0.000516969
+Heightened Def Con from 0.000517001 to 0.000517004
+Heightened Def Con from 0.000539001 to 0.000539004
+Heightened Def Con from 0.000560999 to 0.000561004
+Heightened Def Con from 0.000583001 to 0.000583004
+Heightened Def Con from 0.000604999 to 0.000605
+Heightened Def Con from 0.000605001 to 0.000605004
+Singular matrix:  Check node n002
+   Iteration No. 6
+Fatal Error: Singular matrix:  check node n002
+   Iteration No. 6
+
