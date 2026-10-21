@@ -1,0 +1,3 @@
+*.asc linguist-language="Spice Netlist"
+*.net linguist-language="Spice Netlist"
+*.asy linguist-language="Spice Netlist"
