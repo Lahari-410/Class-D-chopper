@@ -1,3 +1,3 @@
-*.asc linguist-language=C#
-*.net linguist-language=C#
-*.asy linguist-language=C#
+*.asc linguist-language=SystemVerilog
+*.net linguist-language=SystemVerilog
+*.asy linguist-language=SystemVerilog
