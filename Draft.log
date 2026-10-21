@@ -1,0 +1,54 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\lahar\Downloads\Draft.asc
+Start Time: Wed Oct 21 14:43:13 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 1.0412
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 1.0132
+vernier = 0.00390625
+vernier = 0.00195312
+Gmin = 1.00827
+vernier = 0.00260417
+vernier = 0.00130208
+Gmin = 1.00515
+vernier = 0.000651042
+vernier = 0.000868055
+vernier = 0.000434028
+Gmin = 1.00434
+vernier = 0.000578703
+vernier = 0.000434027
+Gmin = 1.00339
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 21.2595%
+vernier = 0.00390625
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source Step = 100%
+Source Step = 100%
+Source Step = 99.0148%
+Source stepping failed
+
+Pseudo Transient succeeded in finding the operating point at 292.48 ms.
+Total elapsed time: 32.284 seconds.
+
