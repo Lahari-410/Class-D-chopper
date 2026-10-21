@@ -1,3 +1,3 @@
-*.asc linguist-language="Spice Netlist"
-*.net linguist-language="Spice Netlist"
-*.asy linguist-language="Spice Netlist"
+*.asc linguist-language="Spice Netlist" linguist-detectable=true
+*.net linguist-language="Spice Netlist" linguist-detectable=true
+*.asy linguist-language="Spice Netlist" linguist-detectable=true
